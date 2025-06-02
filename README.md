@@ -1,12 +1,9 @@
 ### Hey, I'm Joe 👋🏻
 
-Born in the UK, living in Thailand, working with the always awesome [OOZOU](https://oozou.com)
+Currently in the UK working with GitLab
 
 - 💼 Professional Ruby on Rails developer.
 - 🏡 Elixir, Python, and JS ES6+ fan.
-- 📓 Currently loving Hotwire/Turbo/StimulusJS.
-- 🥅 Currently building RoadToCode to help beginners on their journey into the industry.
-- 🍄 Fun fact: I'm vaccinated! \\(^o^)/
 
 <br>
 
